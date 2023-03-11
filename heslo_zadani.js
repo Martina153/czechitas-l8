@@ -51,4 +51,3 @@ let password = '';
 const createAccount = (user, generateStrongPassword) => {
   return account=document.body.innerHTML +=`<p>Vitaj ${user}, tvoje heslo k uctu je ${generateStrongPassword(length)}<p>`
 }
-
