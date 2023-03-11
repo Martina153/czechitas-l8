@@ -1,5 +1,5 @@
 
-const goodbye = (name) => {
+/*const goodbye = (name) => {
 	//return 'Ahoj ' + name
 	return `Ahoj ${name}`
 }
@@ -15,7 +15,7 @@ Napišme si funkce, které simulují naše doručovací společnosti.
 */
 
 
-const hejsci = (zasilka) => {
+/*const hejsci = (zasilka) => {
 	if(Math.random() > 0.1) {
 		return `Zásilka: „${zasilka}“ bude doručena za 30 minut, kámo.` 
 	}
@@ -60,3 +60,7 @@ const times = (num1, num2) => {
 const divide = (num1, num2) => {
 	return num1 / num2
 }
+*/
+
+//funkce - dom elementy, 
+
